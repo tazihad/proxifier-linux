@@ -5,4 +5,3 @@
 
 # start redsocks
 redsocks -c /etc/redsocks.conf
-
