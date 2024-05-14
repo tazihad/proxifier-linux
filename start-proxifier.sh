@@ -2,4 +2,3 @@
 
 ./setup-iptables
 ./redsocks-start
-
